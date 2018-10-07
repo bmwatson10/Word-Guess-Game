@@ -1,4 +1,4 @@
-//Array of pokemon objects each with words (name), image1 (Princess Silhouettes), image2 (Princess Reveal)
+//Array of princess objects each with words (name), image1 (Princess Silhouettes), image2 (Princess Reveal)
 var princessArray = [
     {
         word: "ariel",
